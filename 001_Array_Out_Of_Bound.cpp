@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector> 
 using namespace std;
 int main()
 {
@@ -7,6 +8,9 @@ int main()
     {
         cout<<arr[i]<<" ";
     }
+    
+    vector<int> myVec = {1,2,5,6};
+    cout<<myVec[6];
 
     return 0;
 }
