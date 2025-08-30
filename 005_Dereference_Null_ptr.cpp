@@ -11,3 +11,14 @@
 * I value constructive feedback and aim to continuously improve the quality of the work.
 *
 */
+
+#include <iostream>
+using namespace std;
+int main()
+{
+   
+    int *ptr = nullptr;
+    cout<<(*ptr);
+
+    return 0;
+}
