@@ -1,6 +1,6 @@
 /*
 * project   : https://github.com/Robin005cr/Debugger_GDB_Valgrind_Sanitizer
-* file name : 005_Dereference_Null_ptr.cpp
+* file name : 005_Print_Null_ptr.cpp
 * author    : Robin CR
 * mail id   : robinchovallurraju@gmail.com
 * LinkedIn  : https://www.linkedin.com/in/robin-cr/
