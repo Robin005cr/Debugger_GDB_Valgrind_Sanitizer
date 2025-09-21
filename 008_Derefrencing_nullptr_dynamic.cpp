@@ -1,6 +1,6 @@
 /*
 * project   : https://github.com/Robin005cr/Debugger_GDB_Valgrind_Sanitizer
-* file name : 008_Derefrencing_nullptr.cpp
+* file name : 008_Derefrencing_nullptr_dynamic.cpp
 * author    : Robin CR
 * mail id   : robinchovallurraju@gmail.com
 * LinkedIn  : https://www.linkedin.com/in/robin-cr/
